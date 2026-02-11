@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "engines": {
-    "node": "18.18.0"
+    "node": "20.x"
   },
   "dependencies": {
     "@hcaptcha/vue-hcaptcha": "^0.3.2",
